@@ -4,9 +4,11 @@ import unittest
 from Rectangle import *
 
 """
-A unit test driver to test the functionality of the rectangle class and helper functions. The unit test should all your 
-to run either all of them at the same time or one at a time. This should make isolating certain functionality easier.
+A unit test driver to test the functionality of the rectangle class and helper functions. The unit test should allow you 
+to run either all of the unit-tests at the same time or one at a time. This should make isolating certain functionality 
+easier.
 """
+
 
 class TestStringMethods(unittest.TestCase):
     """
