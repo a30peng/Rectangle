@@ -12,7 +12,7 @@ easier.
 
 class TestStringMethods(unittest.TestCase):
     """
-    Unit test to check whether or not two rectangles intersect
+    Unit test to check whether or not two rectangles intersect-./
     """
 
     def test_intersection_positive_check(self):
